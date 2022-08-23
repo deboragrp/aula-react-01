@@ -1,12 +1,12 @@
 .App {
   font-family: sans-serif;
   text-align: center;
-  border: dotted 3px #f4d4a3;
+
   background-color: whitesmoke;
   padding: 3%;
   margin: 10%;
 }
 
 body {
-  background-color: #f7ebd9;
+  background-color: whitesmoke;
 }

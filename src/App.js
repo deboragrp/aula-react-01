@@ -1,10 +1,10 @@
+import Contador from "./atividades/contador";
 import "./App.css";
-import Mensagem from "./atividades/mensagem";
 
 function App() {
   return (
-    <div className="App">
-      <Mensagem />
+    <div>
+      <Contador />
     </div>
   );
 }
