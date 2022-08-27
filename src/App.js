@@ -1,10 +1,10 @@
-import { Mensagem } from "./components/Mensagem";
+import Carta from "./components/Carta";
 import "./App.css";
 
 function App() {
   return (
     <div>
-      <Mensagem />
+      <Carta nome="Guilherme" estado="Pernambuco" />
     </div>
   );
 }
