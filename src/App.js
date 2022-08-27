@@ -1,10 +1,10 @@
-import Carta from "./components/Carta";
+import Contador from "./components/Contador2";
 import "./App.css";
 
 function App() {
   return (
     <div>
-      <Carta nome="Guilherme" estado="Pernambuco" />
+      <Contador />
     </div>
   );
 }
